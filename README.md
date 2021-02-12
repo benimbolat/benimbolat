@@ -1,4 +1,4 @@
-        Readme.md, which I created by Github forcefully    Readme.md, which I created by Github forcefully     Readme.md, which I created by Github forcefully     
+        Readme.md, which I created by Github forcefully    Readme.md, which I created by Github forcefully  
 
 - 👋 Hi, I’m @benimbolat (Enes Bolat)
 - 👀 I’m interested in C# and Kotlin  
