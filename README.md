@@ -1,5 +1,3 @@
-Readme.md, which I created by Github forcefully
-
 - 👋 Hi, I’m @benimbolat (Enes Bolat)
 - 👀 I’m interested in C# , Java and Kotlin  
 - 🌱 I’m currently learning C# , Java , Dart , Flutter and Kotlin
