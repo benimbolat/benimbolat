@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benimbolat (Enes Bolat)
-- 👀 I’m interested in C# , Java  
+- 👀 I’m interested in Java and Flutter
 - 🌱 I’m currently learning C# , Java , Dart , Flutter and Kotlin
 - 📫 How to reach me ? benimbolat@gmail.com
 
