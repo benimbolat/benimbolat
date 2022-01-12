@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benimbolat (Enes Bolat)
-- 👀 I’m interested in Java and Flutter
-- 🌱 I’m currently learning C# , Java , Dart , Flutter and Kotlin
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning C# , Java , Dart and Flutter 
 - 📫 How to reach me ? benimbolat@gmail.com
 
 <!---
