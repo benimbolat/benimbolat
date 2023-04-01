@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @benimbolat (Enes Bolat)
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Dart and Flutter 
 - 📫 How to reach me ? benimbolat@gmail.com
 
 <!---
